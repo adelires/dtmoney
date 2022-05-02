@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="dtmoney preview" src=".github/preview.png" width="80%">
+  <img alt="dtmoney preview" src=".github/preview.png">
 </p>
 
 O dtmoney, é um app de controle financeiro, construido no curso Ignite da [Rocketseat](https://github.com/rocketseat), o dtmoney tem como objetivo mostrar
